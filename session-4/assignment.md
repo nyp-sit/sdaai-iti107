@@ -1,7 +1,5 @@
-<<<<<<< HEAD
+
 ![nyplogo](nb_images/nyplogo.png)
-=======
->>>>>>> 1be498b20cd29a69af427f40b58d4f99260a1c71
 
 
 # ITI107 Practical Assignment 
