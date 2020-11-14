@@ -1,4 +1,4 @@
-![nyplogo](nb_images/nyplogo.png)
+![nyplogo](images/nyplogo.png)
 
 # ITI107 Practical Assignment 1
 
