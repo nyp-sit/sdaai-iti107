@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 ![nyplogo](nb_images/nyplogo.png)
+=======
+>>>>>>> 1be498b20cd29a69af427f40b58d4f99260a1c71
 
-# ITI107 Practical Assignment 1
+
+# ITI107 Practical Assignment 
 
 ## Introduction 
 
@@ -23,7 +27,7 @@ You are required to produce a video clip (1 to 2 minutes) that showcase your obj
 
 ## Marking 
 
-The assignment constitutes 40% of your total marks for this module. 
+The assignment constitutes 50% of your total marks for this module. 
 
 Your will be assessed on the following: 
 
