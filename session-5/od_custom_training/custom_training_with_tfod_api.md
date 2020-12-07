@@ -1,6 +1,6 @@
 # Training a Custom Object Detector
 
-Welcome to this week's hands-on lab. In this lab, we are going to learn how to a raccoon detector! 
+Welcome to this week's hands-on lab. In this lab, we are going to learn how to train a raccoon detector! 
 
 At the end of this exercise, you will be able to:
 
@@ -10,6 +10,18 @@ At the end of this exercise, you will be able to:
 - train a custom object detector and monitor the training progress
 - deploy the trained model for object detection 
 
+***Pre-requisites***
+
+You need to clone the object detection API into the VM.  Do the following:
+
+```
+
+cd ~/git
+mkdir tensorflow 
+cd tensorflow 
+git clone https://github.com/tensorflow/models.git
+
+```
 
 ***Note***
 
@@ -50,7 +62,7 @@ The folders will be used for storing the files mentioned below:
 - ``models/model``: all the training model checkpoints
 - ``models/pretrained_model``: the pretrained model checkpoints (e.g. ssd-mobilenet-v2 model checkpoints)
 - ``models``: training pipeline config file
-- ``export_model``: contains the exported custom trained model
+- ``models/export_model``: contains the exported custom trained model
 
 ## Download the Training Data
 
