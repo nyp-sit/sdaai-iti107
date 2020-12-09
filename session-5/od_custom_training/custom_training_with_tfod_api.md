@@ -56,13 +56,13 @@ raccoon_project
 
 The folders will be used for storing the files mentioned below:
 
-- ``data/images``: the .jpg files for training and validation
-- ``data/annotations``: the annotation files in .xml (Pascal VOC) format
-- ``data/``: label mapping file (e.g raccoon_label_map.pbtxt) and TFRecords
-- ``models/model``: all the training model checkpoints
-- ``models/pretrained_model``: the pretrained model checkpoints (e.g. ssd-mobilenet-v2 model checkpoints)
-- ``models``: training pipeline config file
-- ``models/export_model``: contains the exported custom trained model
+- ``raccoon_project/``: training pipeline config file
+- ``raccoon_project/data/images``: the .jpg files for training and validation
+- ``raccoon_project/data/annotations``: the annotation files in .xml (Pascal VOC) format
+- ``raccoon_project/data/``: label mapping file (e.g raccoon_label_map.pbtxt) and TFRecords
+- ``raccoon_project/models/model``: all the training model checkpoints
+- ``raccoon_project/models/pretrained_model``: the pretrained model checkpoints (e.g. ssd-mobilenet-v2 model checkpoints)
+- ``raccoon_project/models/export_model``: contains the exported custom trained model
 
 ## Download the Training Data
 
