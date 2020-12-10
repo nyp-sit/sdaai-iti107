@@ -118,8 +118,9 @@ An example file is already provided for you called `raccoon_label_map.pbtxt`. Op
 Copy the label map file from your lab folder to the ``~/raccoon_project/data`` directory.
 
 ```
-cp ~/git/sdaai-pdc2-students/iti107/session-5/od_custom_training/raccoon_label_map.pbtxt ~/raccoon_project/data/
+cp <lab_folder>/raccoon_label_map.pbtxt ~/raccoon_project/data/
 ```
+***Replace <lab_folder> with the actual directory path, e.g. /home/ubuntu/git/session-5/od_custom_training***
 
  
 ## Creating TensorFlow Records
